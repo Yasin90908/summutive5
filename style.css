@@ -1,0 +1,153 @@
+#body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#c1{
+color: #524f4f;
+}
+header{
+    text-align: center;
+    margin-top: 100px;
+
+}
+h1{
+    color: rgb(58, 27, 133);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+h2{
+    color: rgb(3, 125, 206);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+h1{
+    text-align: center;
+    color: #524f4f;
+    margin-top: 50px;
+ }
+ #body4{
+  background-image: url("./imgs/Capture.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+ h2{
+    text-align: center;
+    color: rgb(51, 40, 207);
+    
+    
+ }
+ h3{
+    text-align: center;
+    color: rgb(17, 7, 41);
+   
+ }
+ .i1{
+  color: rgb(53, 77, 83);
+
+  text-align: center;
+  font-weight: 500;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+
+ /* role*/
+
+.container1{
+    text-align: center;
+    margin-top: 100px;
+ }
+ .container2{
+  text-align: center;
+  margin-top: 50px;
+}
+.container3{
+  text-align: center;
+  margin-top: 100px;
+}
+ /*cards*/
+
+.card{
+    background-color: rgb(253, 252, 250);
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    color: rgb(252, 250, 250);
+    padding-top: 20px;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+   
+ }
+
+span{
+  color: rgb(97, 4, 4);
+}
+span:hover{
+  text-decoration:underline ;
+  transition: 2s;
+}
+.lp{
+  margin-left: 500px;
+  font-size: x-large;
+}
+.lp:hover{
+  text-decoration: underline;
+  transition: 2s;
+}
+
+ .card:hover{
+   border: 5px solid white;
+    border-radius: 20px;
+    background-color: rgb(4, 5, 5);
+
+    transition: 2s;
+   
+ }
+
+
+
+ img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: black 1px solid;
+   margin-left: 50px;
+ }
+ /*navbar*/
+ nav{
+   height: 65px;
+
+
+ }
+ .nav-link{
+   margin-left: 60px;
+ }
+ #body1{
+  background-color:  #b1a9a9;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 1200;
+ }
+ #body2{
+background-color:  #a8a1a1;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+
+ header h3{
+   color: rgb(53, 77, 83);
+   text-align:left;
+   margin-left: 400px;
+   font-weight: 500;
+   font-size: larger;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+
+ }
